@@ -7,3 +7,6 @@ Programa aşağıdaki bağlantıdan ulaşabilirsiniz.
 ```
 https://github.com/doganseyfisen/Elmas-Gosteren-Program/blob/main/elmasprogrami.java
 ```
+```
+https://github.com/doganseyfisen/Elmas-Gosteren-Program/blob/main/dizibharfi.java
+```
